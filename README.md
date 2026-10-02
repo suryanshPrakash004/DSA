@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/suryanshPrakash004/DSA/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suryanshPrakash004/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/suryanshPrakash004/DSA/tree/master/0189-rotate-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/suryanshPrakash004/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -109,4 +110,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/suryanshPrakash004/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suryanshPrakash004/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/suryanshPrakash004/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
