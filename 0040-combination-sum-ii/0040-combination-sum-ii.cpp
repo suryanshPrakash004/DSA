@@ -1,37 +1,36 @@
 class Solution {
 public:
     vector<vector<int>> ans;
-       void generate(int i, vector<int>& candidates, int target,int sum, vector<int>& curr) {
-        if(sum == target){
-            ans.push_back(curr);
+
+    void sum2(int i, vector<int> &curr, vector<int> &candidates, int sum, int target){
+        if(sum > target) return;
+        if(i == candidates.size()){
+            if(sum == target){
+                ans.push_back(curr);
+            }
             return;
         }
 
+        curr.push_back(candidates[i]);
+        sum += candidates[i];
 
+        sum2(i+1, curr, candidates, sum, target);
 
-        for(int j = i; j < candidates.size(); j++){
-            if(j > i && candidates[j]==candidates[j-1]){
-                continue;
-            }
-            if (sum + candidates[j] > target)
-            break;
-        
-        curr.push_back(candidates[j]);
-        sum += candidates[j];
-
-        generate(j+1, candidates, target, sum, curr);
-        
+        sum -= candidates[i];
         curr.pop_back();
-        sum -= candidates[j];
+
+        int j = i + 1;
+        while (j < candidates.size() && candidates[j] == candidates[i]) {
+            j++;
         }
 
-        
+        sum2(j, curr, candidates, sum, target);
     }
-
+    
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
         sort(candidates.begin(), candidates.end());
         vector<int> curr;
-        generate(0, candidates, target, 0, curr);
+        sum2(0, curr, candidates, 0, target);
         return ans;
     }
 };
