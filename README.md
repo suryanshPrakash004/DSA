@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/suryanshPrakash004/DSA/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suryanshPrakash004/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/suryanshPrakash004/DSA/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/suryanshPrakash004/DSA/tree/master/0216-combination-sum-iii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suryanshPrakash004/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 ## String
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/suryanshPrakash004/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/suryanshPrakash004/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/suryanshPrakash004/DSA/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/suryanshPrakash004/DSA/tree/master/0216-combination-sum-iii) |
 ## Bracket Sequences
 |  |
 | ------- |
