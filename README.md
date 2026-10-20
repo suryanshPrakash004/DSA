@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/suryanshPrakash004/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/suryanshPrakash004/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/suryanshPrakash004/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/suryanshPrakash004/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/suryanshPrakash004/DSA/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suryanshPrakash004/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/suryanshPrakash004/DSA/tree/master/0189-rotate-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/suryanshPrakash004/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/suryanshPrakash004/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/suryanshPrakash004/DSA/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/suryanshPrakash004/DSA/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/suryanshPrakash004/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/suryanshPrakash004/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/suryanshPrakash004/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/suryanshPrakash004/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/suryanshPrakash004/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/suryanshPrakash004/DSA/tree/master/0216-combination-sum-iii) |
 ## Bracket Sequences
@@ -123,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/suryanshPrakash004/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suryanshPrakash004/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/suryanshPrakash004/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/suryanshPrakash004/DSA/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/suryanshPrakash004/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
